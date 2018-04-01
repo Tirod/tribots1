@@ -37,4 +37,4 @@ message.reply('INDISPONIBLE')
 }
 })
 
-bot.login('NDI4MjQ0NDU2MTI3NDYzNDI0.DZzR9Q.0SFvwRNL-mIuu06AoSw7HzY1GaU')
+bot.login('process.env.TOKEN')
